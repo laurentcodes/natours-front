@@ -37,7 +37,7 @@
 
 		@include responsive(tab-port) {
 			width: 100%;
-			display: inline-block;
+			display: flex;
 		}
 	}
 
